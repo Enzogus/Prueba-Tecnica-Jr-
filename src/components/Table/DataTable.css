@@ -1,6 +1,6 @@
 .data-table {
     width: 100%;
-    
+    overflow-x: auto;
     margin-bottom: 2rem;
   }
   

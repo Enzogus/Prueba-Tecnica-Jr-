@@ -1,9 +1,7 @@
-/* TableFilters.css */
 .table-filters {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
-    
   }
   
   .table-filters__group {
